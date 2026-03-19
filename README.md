@@ -1,6 +1,6 @@
 # Hendrik Venter
 
-AI Systems Builder focused on autonomous agents, multi-agent architectures, and real-world AI applications.
+AI Systems Builder developing autonomous multi-agent systems for real-world decision-making and workflow automation.
 
 ---
 
