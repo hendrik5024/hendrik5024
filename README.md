@@ -25,7 +25,7 @@ AI Systems Builder developing autonomous multi-agent systems for real-world deci
 
 ## 💡 Featured Projects
 
-### 🔹 Jessica AI
+### 🔹 Jessica AI — Offline Autonomous Multi-Agent System
 Offline autonomous AI system with multi-agent reasoning, memory, and self-learning capabilities.
 
 👉 https://github.com/hendrik5024/jessica-ai-system
